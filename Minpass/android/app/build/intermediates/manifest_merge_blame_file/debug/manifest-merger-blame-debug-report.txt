@@ -1,0 +1,113 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.minpass"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="30" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->[com.facebook.flipper:flipper:0.93.0] /Users/nitinsachan/.gradle/caches/transforms-3/3750ee7a315621407cfae7475bf721cc/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:16:5-76
+13-->[com.facebook.flipper:flipper:0.93.0] /Users/nitinsachan/.gradle/caches/transforms-3/3750ee7a315621407cfae7475bf721cc/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:16:22-73
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> <!-- Include required permissions for Google Maps API to run. -->
+14-->[:react-native-maps] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/react-native-maps/lib/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-81
+14-->[:react-native-maps] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/react-native-maps/lib/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-78
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.google.android.gms:play-services-maps:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/6c6aa27b0e8af307a5b8632a4ea7ce3c/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+15-->[com.google.android.gms:play-services-maps:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/6c6aa27b0e8af307a5b8632a4ea7ce3c/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:22-76
+16
+17    <uses-feature
+17-->[com.google.android.gms:play-services-maps:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/6c6aa27b0e8af307a5b8632a4ea7ce3c/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+18        android:glEsVersion="0x00020000"
+18-->[com.google.android.gms:play-services-maps:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/6c6aa27b0e8af307a5b8632a4ea7ce3c/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+19        android:required="true" />
+19-->[com.google.android.gms:play-services-maps:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/6c6aa27b0e8af307a5b8632a4ea7ce3c/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+20
+21    <application
+21-->/Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:6:5-28:19
+22        android:name="com.minpass.MainApplication"
+22-->/Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:7:7-38
+23        android:allowBackup="false"
+23-->/Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:11:7-34
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/4afd4f5f390f2998f1a06307e306af63/transformed/core-1.1.0/AndroidManifest.xml:24:18-86
+25        android:debuggable="true"
+26        android:icon="@mipmap/ic_launcher"
+26-->/Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:9:7-41
+27        android:label="@string/app_name"
+27-->/Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:8:7-39
+28        android:roundIcon="@mipmap/ic_launcher_round"
+28-->/Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:10:7-52
+29        android:theme="@style/AppTheme"
+29-->/Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:12:7-38
+30        android:usesCleartextTraffic="true" >
+30-->/Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/debug/AndroidManifest.xml:8:9-44
+31        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+31-->/Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/debug/AndroidManifest.xml:11:9-86
+31-->/Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/debug/AndroidManifest.xml:11:19-83
+32
+33        <meta-data
+33-->/Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:13:7-15:64
+34            android:name="com.google.android.geo.API_KEY"
+34-->/Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:14:7-52
+35            android:value="AIzaSyBGthVYzxJY0KzbcqpZ7aRD9270CDdJjsA" />
+35-->/Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:15:7-62
+36
+37        <activity
+37-->/Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:16:7-27:18
+38            android:name="com.minpass.MainActivity"
+38-->/Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:17:9-37
+39            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+39-->/Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:19:9-86
+40            android:label="@string/app_name"
+40-->/Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:18:9-41
+41            android:launchMode="singleTask"
+41-->/Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:20:9-40
+42            android:screenOrientation="portrait"
+42-->/Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:21:9-45
+43            android:windowSoftInputMode="adjustResize" >
+43-->/Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:22:9-51
+44            <intent-filter>
+44-->/Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:23:9-26:25
+45                <action android:name="android.intent.action.MAIN" />
+45-->/Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:24:13-65
+45-->/Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:24:21-62
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->/Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:25:13-73
+47-->/Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:25:23-70
+48            </intent-filter>
+49        </activity> <!-- Needs to be explicitly declared on P+ -->
+50        <uses-library
+50-->[com.google.android.gms:play-services-maps:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/6c6aa27b0e8af307a5b8632a4ea7ce3c/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+51            android:name="org.apache.http.legacy"
+51-->[com.google.android.gms:play-services-maps:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/6c6aa27b0e8af307a5b8632a4ea7ce3c/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+52            android:required="false" />
+52-->[com.google.android.gms:play-services-maps:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/6c6aa27b0e8af307a5b8632a4ea7ce3c/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+53
+54        <activity
+54-->[com.google.android.gms:play-services-base:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/7adb15563f6c430089a337c415b07142/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+55            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+55-->[com.google.android.gms:play-services-base:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/7adb15563f6c430089a337c415b07142/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+56            android:exported="false"
+56-->[com.google.android.gms:play-services-base:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/7adb15563f6c430089a337c415b07142/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+57            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+57-->[com.google.android.gms:play-services-base:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/7adb15563f6c430089a337c415b07142/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+58
+59        <meta-data
+59-->[com.google.android.gms:play-services-basement:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/04c41a622b11bbd1762f8b6dda91ff26/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+60            android:name="com.google.android.gms.version"
+60-->[com.google.android.gms:play-services-basement:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/04c41a622b11bbd1762f8b6dda91ff26/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+61            android:value="@integer/google_play_services_version" />
+61-->[com.google.android.gms:play-services-basement:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/04c41a622b11bbd1762f8b6dda91ff26/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+62    </application>
+63
+64</manifest>

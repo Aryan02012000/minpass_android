@@ -1,0 +1,9 @@
+com/minpass/BuildConfig.java
+ com.minpass.BuildConfig
+com/minpass/MainApplication.java
+ com.minpass.MainApplication
+ com.minpass.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/minpass/MainActivity.java
+ com.minpass.MainActivity

@@ -1,0 +1,395 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:1:1-29:12
+MERGED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:1:1-29:12
+MERGED from [hermes-debug.aar] /Users/nitinsachan/.gradle/caches/transforms-3/f812db1e922f4d73f5631ec20f748685/transformed/jetified-hermes-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.flipper:flipper:0.93.0] /Users/nitinsachan/.gradle/caches/transforms-3/3750ee7a315621407cfae7475bf721cc/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.93.0] /Users/nitinsachan/.gradle/caches/transforms-3/2e882cb8946234ec8c99272f0b659303/transformed/jetified-flipper-network-plugin-0.93.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.93.0] /Users/nitinsachan/.gradle/caches/transforms-3/d33f79e2b99d88b01ee8b50df59c24fc/transformed/jetified-flipper-fresco-plugin-0.93.0/AndroidManifest.xml:8:1-15:12
+MERGED from [:lottie-react-native] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/lottie-react-native/src/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-maps] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/react-native-maps/lib/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-safe-area-context] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-snackbar] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/react-native-snackbar/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-svg] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.65.1] /Users/nitinsachan/.gradle/caches/transforms-3/4af8c85b29cccd3d7eb03dfba67cd7a2/transformed/jetified-react-native-0.65.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/7f12bd1a771dd87c830f5d5a90fbdbe2/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-reanimated] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/react-native-reanimated/android/build/.transforms/f67878fef4f6a696e95729c89e539938/transformed/jetified-react-native-reanimated-65-hermes/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:flipper:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/ac835ceb03e00ddc6bfa50d65be0930c/transformed/jetified-flipper-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/545ae6cabac7962b25671a58533aa64a/transformed/jetified-stetho-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/ceab0583b08cd7bc184a6135c88ee892/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/017b5fa9a24e9c8ad81637e63c0b9202/transformed/jetified-soloader-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/bc414feb7debf2cd50d85bc616b331d4/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/5cd95789f1347d5fbf488b8b263c1f74/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/2b4a34fb05470cfb3bb76d3217d0ffe7/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/c84bb8201430760d115a2abeb994e9fc/transformed/jetified-memory-type-native-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/3cac2da910fa4fc049eb3c82fd6c5448/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/22c6adcea877de7b3064f92d80de0702/transformed/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/nitinsachan/.gradle/caches/transforms-3/a9e79aebcd8fd8c3af0747bb477980e2/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/ffad2677d0965e4879059ad51dd91fe6/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/449746ac86fff5abc37d7198b89931e5/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/ca3fb7389a7d21d851e669cf1363841b/transformed/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/91e268bf5dbd318fad73ee0055d4dfc1/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.airbnb.android:lottie:4.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/67b5b70bc832f80484126a81229793d3/transformed/jetified-lottie-4.0.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/52b720ec622c1f5aad997cb8a75a3a3b/transformed/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/7de173e117d12e7cc218e69ca1ffe96e/transformed/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/33f90d04c817ca2d084ecbd97354e29a/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/5e2725c519e0ca1027513fa59391df76/transformed/jetified-middleware-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/2c2ddd44d00aace2c85120804c1f827f/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/010ef1803b798ddaeeb5255a016cf59b/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/f0fe3706260b3bce929f3dd639e33b7e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/140757696eca7ec1efbdf7371a4acde0/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/6c6aa27b0e8af307a5b8632a4ea7ce3c/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/0d100be7ce0ac88b49428289fc0e281a/transformed/jetified-play-services-location-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/7adb15563f6c430089a337c415b07142/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/e27254e3f0a936ad1ce8e51cfd3ec8c0/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/4363d829c6554fbdf4deeedbafe018fc/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/04c41a622b11bbd1762f8b6dda91ff26/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/d8e35720d387af23b8661e2c3d29cdaa/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/nitinsachan/.gradle/caches/transforms-3/b7671e135b9de1f85cd8bc020abbfbd8/transformed/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/daf60890667c2c1f4f7951bda1ccd740/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/9e5bac1f89003abf622e3422923228db/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/780765cea0c567bec6ca8db99cd43cba/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/cc799678192709bceae81fa20a37187c/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/c970ab97bb5351b7da8839fd05c191b6/transformed/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/b4790aa1caca6e7d9bde0bf1adfc442a/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/c737135e2039c6aa4422151570c825bf/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/nitinsachan/.gradle/caches/transforms-3/48c63f3106ffaa61ce348f6ba5cb615c/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/de5a7dc1c81a89f7e31dc782229122df/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/4afd4f5f390f2998f1a06307e306af63/transformed/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/6b80c278120ff42ff6ece3f9d926c639/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/1997d4a7346abd9432625ebcff5ce39e/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/82c537ca7208c5bdc129dab95faf4596/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/nitinsachan/.gradle/caches/transforms-3/2ff40ce2f9d039dce4ff2518356734a1/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/nitinsachan/.gradle/caches/transforms-3/3cf3f55d5778dfdf956bc5b4780bba89/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/5a89849bfd38ecbffaf5b00436d2e3bd/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/nitinsachan/.gradle/caches/transforms-3/b2409f7f7047d916fdb8ce5cd1855f71/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/303841d5a01881781d7bcd0b9a1b8466/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/bc210aa728a4eeea33d4ed954c0cfcd1/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/nitinsachan/.gradle/caches/transforms-3/a20899895a5536f417fb9395f1603f8d/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/a1b15eaaf08fb20dd8d722ca164b4b9c/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/nitinsachan/.gradle/caches/transforms-3/957769b4aa618d1e2a4dca4029cc3402/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/e1edccdbabf8120b45930f1901b72022/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:2:3-24
+		INJECTED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:2:3-24
+		INJECTED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:1:1-29:12
+		INJECTED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:1:1-29:12
+		INJECTED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.93.0] /Users/nitinsachan/.gradle/caches/transforms-3/3750ee7a315621407cfae7475bf721cc/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.93.0] /Users/nitinsachan/.gradle/caches/transforms-3/3750ee7a315621407cfae7475bf721cc/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:15:5-67
+MERGED from [:lottie-react-native] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/lottie-react-native/src/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:lottie-react-native] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/lottie-react-native/src/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/react-native-maps/lib/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/react-native-maps/lib/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/6c6aa27b0e8af307a5b8632a4ea7ce3c/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/6c6aa27b0e8af307a5b8632a4ea7ce3c/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:6:5-28:19
+MERGED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:6:5-28:19
+MERGED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:6:5-28:19
+MERGED from [com.facebook.react:react-native:0.65.1] /Users/nitinsachan/.gradle/caches/transforms-3/4af8c85b29cccd3d7eb03dfba67cd7a2/transformed/jetified-react-native-0.65.1/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.65.1] /Users/nitinsachan/.gradle/caches/transforms-3/4af8c85b29cccd3d7eb03dfba67cd7a2/transformed/jetified-react-native-0.65.1/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/nitinsachan/.gradle/caches/transforms-3/a9e79aebcd8fd8c3af0747bb477980e2/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/nitinsachan/.gradle/caches/transforms-3/a9e79aebcd8fd8c3af0747bb477980e2/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:11:5-20
+MERGED from [com.airbnb.android:lottie:4.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/67b5b70bc832f80484126a81229793d3/transformed/jetified-lottie-4.0.0/AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:4.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/67b5b70bc832f80484126a81229793d3/transformed/jetified-lottie-4.0.0/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/52b720ec622c1f5aad997cb8a75a3a3b/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/52b720ec622c1f5aad997cb8a75a3a3b/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/6c6aa27b0e8af307a5b8632a4ea7ce3c/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/6c6aa27b0e8af307a5b8632a4ea7ce3c/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/0d100be7ce0ac88b49428289fc0e281a/transformed/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/0d100be7ce0ac88b49428289fc0e281a/transformed/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/7adb15563f6c430089a337c415b07142/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/7adb15563f6c430089a337c415b07142/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/e27254e3f0a936ad1ce8e51cfd3ec8c0/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/e27254e3f0a936ad1ce8e51cfd3ec8c0/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/4363d829c6554fbdf4deeedbafe018fc/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/4363d829c6554fbdf4deeedbafe018fc/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/04c41a622b11bbd1762f8b6dda91ff26/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/04c41a622b11bbd1762f8b6dda91ff26/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/4afd4f5f390f2998f1a06307e306af63/transformed/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/4afd4f5f390f2998f1a06307e306af63/transformed/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/82c537ca7208c5bdc129dab95faf4596/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/82c537ca7208c5bdc129dab95faf4596/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/nitinsachan/.gradle/caches/transforms-3/957769b4aa618d1e2a4dca4029cc3402/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/nitinsachan/.gradle/caches/transforms-3/957769b4aa618d1e2a4dca4029cc3402/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/4afd4f5f390f2998f1a06307e306af63/transformed/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/debug/AndroidManifest.xml:10:9-48
+	android:roundIcon
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/debug/AndroidManifest.xml:9:9-29
+	android:icon
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/debug/AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:7:7-38
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:13:7-15:64
+	android:value
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:15:7-62
+	android:name
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:14:7-52
+activity#com.minpass.MainActivity
+ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:16:7-27:18
+	android:screenOrientation
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:21:9-45
+	android:label
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:18:9-41
+	android:launchMode
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:20:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:22:9-51
+	android:configChanges
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:19:9-86
+	android:name
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:17:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:23:9-26:25
+action#android.intent.action.MAIN
+ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:24:13-65
+	android:name
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:24:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:25:13-73
+	android:name
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml:25:23-70
+uses-sdk
+INJECTED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml
+MERGED from [hermes-debug.aar] /Users/nitinsachan/.gradle/caches/transforms-3/f812db1e922f4d73f5631ec20f748685/transformed/jetified-hermes-debug/AndroidManifest.xml:5:5-44
+MERGED from [hermes-debug.aar] /Users/nitinsachan/.gradle/caches/transforms-3/f812db1e922f4d73f5631ec20f748685/transformed/jetified-hermes-debug/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.flipper:flipper:0.93.0] /Users/nitinsachan/.gradle/caches/transforms-3/3750ee7a315621407cfae7475bf721cc/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.93.0] /Users/nitinsachan/.gradle/caches/transforms-3/3750ee7a315621407cfae7475bf721cc/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.93.0] /Users/nitinsachan/.gradle/caches/transforms-3/2e882cb8946234ec8c99272f0b659303/transformed/jetified-flipper-network-plugin-0.93.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.93.0] /Users/nitinsachan/.gradle/caches/transforms-3/2e882cb8946234ec8c99272f0b659303/transformed/jetified-flipper-network-plugin-0.93.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.93.0] /Users/nitinsachan/.gradle/caches/transforms-3/d33f79e2b99d88b01ee8b50df59c24fc/transformed/jetified-flipper-fresco-plugin-0.93.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.93.0] /Users/nitinsachan/.gradle/caches/transforms-3/d33f79e2b99d88b01ee8b50df59c24fc/transformed/jetified-flipper-fresco-plugin-0.93.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:lottie-react-native] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/lottie-react-native/src/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:lottie-react-native] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/lottie-react-native/src/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/react-native-maps/lib/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/react-native-maps/lib/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-snackbar] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/react-native-snackbar/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-snackbar] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/react-native-snackbar/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.65.1] /Users/nitinsachan/.gradle/caches/transforms-3/4af8c85b29cccd3d7eb03dfba67cd7a2/transformed/jetified-react-native-0.65.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.65.1] /Users/nitinsachan/.gradle/caches/transforms-3/4af8c85b29cccd3d7eb03dfba67cd7a2/transformed/jetified-react-native-0.65.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/7f12bd1a771dd87c830f5d5a90fbdbe2/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/7f12bd1a771dd87c830f5d5a90fbdbe2/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:react-native-reanimated] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/react-native-reanimated/android/build/.transforms/f67878fef4f6a696e95729c89e539938/transformed/jetified-react-native-reanimated-65-hermes/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/react-native-reanimated/android/build/.transforms/f67878fef4f6a696e95729c89e539938/transformed/jetified-react-native-reanimated-65-hermes/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/ac835ceb03e00ddc6bfa50d65be0930c/transformed/jetified-flipper-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/ac835ceb03e00ddc6bfa50d65be0930c/transformed/jetified-flipper-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/545ae6cabac7962b25671a58533aa64a/transformed/jetified-stetho-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/545ae6cabac7962b25671a58533aa64a/transformed/jetified-stetho-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/ceab0583b08cd7bc184a6135c88ee892/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/ceab0583b08cd7bc184a6135c88ee892/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/017b5fa9a24e9c8ad81637e63c0b9202/transformed/jetified-soloader-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/017b5fa9a24e9c8ad81637e63c0b9202/transformed/jetified-soloader-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/bc414feb7debf2cd50d85bc616b331d4/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/bc414feb7debf2cd50d85bc616b331d4/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/5cd95789f1347d5fbf488b8b263c1f74/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/5cd95789f1347d5fbf488b8b263c1f74/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/2b4a34fb05470cfb3bb76d3217d0ffe7/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/2b4a34fb05470cfb3bb76d3217d0ffe7/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/c84bb8201430760d115a2abeb994e9fc/transformed/jetified-memory-type-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/c84bb8201430760d115a2abeb994e9fc/transformed/jetified-memory-type-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/3cac2da910fa4fc049eb3c82fd6c5448/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/3cac2da910fa4fc049eb3c82fd6c5448/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/22c6adcea877de7b3064f92d80de0702/transformed/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/22c6adcea877de7b3064f92d80de0702/transformed/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/nitinsachan/.gradle/caches/transforms-3/a9e79aebcd8fd8c3af0747bb477980e2/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/nitinsachan/.gradle/caches/transforms-3/a9e79aebcd8fd8c3af0747bb477980e2/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/ffad2677d0965e4879059ad51dd91fe6/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/ffad2677d0965e4879059ad51dd91fe6/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/449746ac86fff5abc37d7198b89931e5/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/449746ac86fff5abc37d7198b89931e5/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/ca3fb7389a7d21d851e669cf1363841b/transformed/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/ca3fb7389a7d21d851e669cf1363841b/transformed/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/91e268bf5dbd318fad73ee0055d4dfc1/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/91e268bf5dbd318fad73ee0055d4dfc1/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:4.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/67b5b70bc832f80484126a81229793d3/transformed/jetified-lottie-4.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:4.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/67b5b70bc832f80484126a81229793d3/transformed/jetified-lottie-4.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/52b720ec622c1f5aad997cb8a75a3a3b/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/52b720ec622c1f5aad997cb8a75a3a3b/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/7de173e117d12e7cc218e69ca1ffe96e/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/7de173e117d12e7cc218e69ca1ffe96e/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/33f90d04c817ca2d084ecbd97354e29a/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/33f90d04c817ca2d084ecbd97354e29a/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/5e2725c519e0ca1027513fa59391df76/transformed/jetified-middleware-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/5e2725c519e0ca1027513fa59391df76/transformed/jetified-middleware-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/2c2ddd44d00aace2c85120804c1f827f/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/2c2ddd44d00aace2c85120804c1f827f/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/010ef1803b798ddaeeb5255a016cf59b/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/010ef1803b798ddaeeb5255a016cf59b/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/f0fe3706260b3bce929f3dd639e33b7e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/f0fe3706260b3bce929f3dd639e33b7e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/140757696eca7ec1efbdf7371a4acde0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/140757696eca7ec1efbdf7371a4acde0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/6c6aa27b0e8af307a5b8632a4ea7ce3c/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/6c6aa27b0e8af307a5b8632a4ea7ce3c/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/0d100be7ce0ac88b49428289fc0e281a/transformed/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/0d100be7ce0ac88b49428289fc0e281a/transformed/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/7adb15563f6c430089a337c415b07142/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/7adb15563f6c430089a337c415b07142/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/e27254e3f0a936ad1ce8e51cfd3ec8c0/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/e27254e3f0a936ad1ce8e51cfd3ec8c0/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/4363d829c6554fbdf4deeedbafe018fc/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/4363d829c6554fbdf4deeedbafe018fc/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/04c41a622b11bbd1762f8b6dda91ff26/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/04c41a622b11bbd1762f8b6dda91ff26/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/d8e35720d387af23b8661e2c3d29cdaa/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/d8e35720d387af23b8661e2c3d29cdaa/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/nitinsachan/.gradle/caches/transforms-3/b7671e135b9de1f85cd8bc020abbfbd8/transformed/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/nitinsachan/.gradle/caches/transforms-3/b7671e135b9de1f85cd8bc020abbfbd8/transformed/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/daf60890667c2c1f4f7951bda1ccd740/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/daf60890667c2c1f4f7951bda1ccd740/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/9e5bac1f89003abf622e3422923228db/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/9e5bac1f89003abf622e3422923228db/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/780765cea0c567bec6ca8db99cd43cba/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/780765cea0c567bec6ca8db99cd43cba/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/cc799678192709bceae81fa20a37187c/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/cc799678192709bceae81fa20a37187c/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/c970ab97bb5351b7da8839fd05c191b6/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/c970ab97bb5351b7da8839fd05c191b6/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/b4790aa1caca6e7d9bde0bf1adfc442a/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/b4790aa1caca6e7d9bde0bf1adfc442a/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/c737135e2039c6aa4422151570c825bf/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/c737135e2039c6aa4422151570c825bf/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/nitinsachan/.gradle/caches/transforms-3/48c63f3106ffaa61ce348f6ba5cb615c/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/nitinsachan/.gradle/caches/transforms-3/48c63f3106ffaa61ce348f6ba5cb615c/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/de5a7dc1c81a89f7e31dc782229122df/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/de5a7dc1c81a89f7e31dc782229122df/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/4afd4f5f390f2998f1a06307e306af63/transformed/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/4afd4f5f390f2998f1a06307e306af63/transformed/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/6b80c278120ff42ff6ece3f9d926c639/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/6b80c278120ff42ff6ece3f9d926c639/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/1997d4a7346abd9432625ebcff5ce39e/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/1997d4a7346abd9432625ebcff5ce39e/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/82c537ca7208c5bdc129dab95faf4596/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/82c537ca7208c5bdc129dab95faf4596/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/nitinsachan/.gradle/caches/transforms-3/2ff40ce2f9d039dce4ff2518356734a1/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/nitinsachan/.gradle/caches/transforms-3/2ff40ce2f9d039dce4ff2518356734a1/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/nitinsachan/.gradle/caches/transforms-3/3cf3f55d5778dfdf956bc5b4780bba89/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/nitinsachan/.gradle/caches/transforms-3/3cf3f55d5778dfdf956bc5b4780bba89/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/5a89849bfd38ecbffaf5b00436d2e3bd/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/5a89849bfd38ecbffaf5b00436d2e3bd/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/nitinsachan/.gradle/caches/transforms-3/b2409f7f7047d916fdb8ce5cd1855f71/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/nitinsachan/.gradle/caches/transforms-3/b2409f7f7047d916fdb8ce5cd1855f71/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/303841d5a01881781d7bcd0b9a1b8466/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/303841d5a01881781d7bcd0b9a1b8466/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/bc210aa728a4eeea33d4ed954c0cfcd1/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/bc210aa728a4eeea33d4ed954c0cfcd1/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/nitinsachan/.gradle/caches/transforms-3/a20899895a5536f417fb9395f1603f8d/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/nitinsachan/.gradle/caches/transforms-3/a20899895a5536f417fb9395f1603f8d/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/a1b15eaaf08fb20dd8d722ca164b4b9c/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/nitinsachan/.gradle/caches/transforms-3/a1b15eaaf08fb20dd8d722ca164b4b9c/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/nitinsachan/.gradle/caches/transforms-3/957769b4aa618d1e2a4dca4029cc3402/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/nitinsachan/.gradle/caches/transforms-3/957769b4aa618d1e2a4dca4029cc3402/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/e1edccdbabf8120b45930f1901b72022/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/nitinsachan/.gradle/caches/transforms-3/e1edccdbabf8120b45930f1901b72022/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/debug/AndroidManifest.xml:5:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/debug/AndroidManifest.xml:11:9-86
+	android:name
+		ADDED from /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/android/app/src/debug/AndroidManifest.xml:11:19-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.93.0] /Users/nitinsachan/.gradle/caches/transforms-3/3750ee7a315621407cfae7475bf721cc/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.93.0] /Users/nitinsachan/.gradle/caches/transforms-3/3750ee7a315621407cfae7475bf721cc/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-maps] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/react-native-maps/lib/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-maps] /Users/nitinsachan/Documents/Backups/BackupProjects/NunovaFurniture/node_modules/react-native-maps/lib/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/6c6aa27b0e8af307a5b8632a4ea7ce3c/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/6c6aa27b0e8af307a5b8632a4ea7ce3c/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/6c6aa27b0e8af307a5b8632a4ea7ce3c/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/6c6aa27b0e8af307a5b8632a4ea7ce3c/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/6c6aa27b0e8af307a5b8632a4ea7ce3c/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/6c6aa27b0e8af307a5b8632a4ea7ce3c/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/6c6aa27b0e8af307a5b8632a4ea7ce3c/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/6c6aa27b0e8af307a5b8632a4ea7ce3c/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/7adb15563f6c430089a337c415b07142/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/7adb15563f6c430089a337c415b07142/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/7adb15563f6c430089a337c415b07142/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/7adb15563f6c430089a337c415b07142/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/04c41a622b11bbd1762f8b6dda91ff26/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/nitinsachan/.gradle/caches/transforms-3/957769b4aa618d1e2a4dca4029cc3402/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/nitinsachan/.gradle/caches/transforms-3/957769b4aa618d1e2a4dca4029cc3402/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/04c41a622b11bbd1762f8b6dda91ff26/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/nitinsachan/.gradle/caches/transforms-3/04c41a622b11bbd1762f8b6dda91ff26/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
